@@ -1,0 +1,8 @@
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-spa
+tesseract-ocr-fra
+tesseract-ocr-deu
+tesseract-ocr-ita
+tesseract-ocr-por
+fonts-dejavu-core
