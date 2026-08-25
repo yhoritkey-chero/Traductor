@@ -1,0 +1,8 @@
+chromium
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-spa
+tesseract-ocr-por
+tesseract-ocr-fra
+tesseract-ocr-deu
+tesseract-ocr-ita
